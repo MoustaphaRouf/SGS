@@ -1,5 +1,5 @@
 # SGS
-Cours sur le système de gestion de la sécurité conformément aux dispositions de l'annexe 19 à la convention de Chicago.
+Cours sur la gestion de la sécurité conformément aux dispositions de l'annexe 19 à la convention de Chicago et au Doc 9859.
 # CONTENT
 
 [**MODULE 0:**  INTRODUCTION](./Cours/INTRODUCTION.pdf)
