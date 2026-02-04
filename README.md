@@ -11,4 +11,5 @@ Cours sur la gestion de la sécurité conformément aux dispositions de l'annexe
 [**MODULE 3 :** MISE EN OEUVRE ET EXPLOITATION DU SYSTÈME DE GESTION DE LA SÉCURITÉ (SGS)](./Cours/MODULE_3_SMS.pdf)
 
 [**CAS PRATIQUES**](./Cours/TD)
+
 [**Documents divers**](./Cours/Divers_Docs)
