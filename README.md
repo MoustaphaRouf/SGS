@@ -12,4 +12,4 @@ Cours sur la gestion de la sécurité conformément aux dispositions de l'annexe
 
 [**CAS PRATIQUES**](./Cours/TD)
 
-[**Documents divers**](./Cours/Divers_Docs)
+[**DOCUMENTS DIVERS**](./Cours/Divers_docs) 
